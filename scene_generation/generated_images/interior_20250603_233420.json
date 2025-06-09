@@ -1,0 +1,12 @@
+{
+  "prompt": "Luxury Art Deco dining room with bold geometric patterns and gold accents",
+  "enhanced_prompt": "Professional interior design photograph: Luxury Art Deco dining room with bold geometric patterns and gold accents. High quality, architectural photography, well-lit, 8k resolution",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ",
+  "seed": null,
+  "timestamp": "20250603_233420",
+  "settings": {
+    "guidance_scale": 7.5,
+    "steps": 50,
+    "size": "720x720"
+  }
+}

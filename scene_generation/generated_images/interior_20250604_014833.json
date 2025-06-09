@@ -1,0 +1,11 @@
+{
+  "prompt": "Coastal cottage style bedroom with soft blues and whites, nautical elements",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, ",
+  "seed": 2326350151922314,
+  "timestamp": "20250604_014833",
+  "settings": {
+    "guidance_scale": 3.5,
+    "steps": 28,
+    "size": "720x720"
+  }
+}

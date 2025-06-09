@@ -1,0 +1,12 @@
+{
+  "prompt": "Industrial loft kitchen with exposed brick and stainless steel appliances",
+  "enhanced_prompt": "Professional interior design photograph: Industrial loft kitchen with exposed brick and stainless steel appliances. High quality, architectural photography, well-lit, 8k resolution",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ",
+  "seed": null,
+  "timestamp": "20250604_010116",
+  "settings": {
+    "guidance_scale": 7.5,
+    "steps": 25,
+    "size": "720x720"
+  }
+}

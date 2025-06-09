@@ -1,0 +1,11 @@
+{
+  "prompt": "Rustic farmhouse kitchen with reclaimed wood and vintage fixtures",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, ",
+  "seed": 6167224793548744,
+  "timestamp": "20250604_020351",
+  "settings": {
+    "guidance_scale": 3.5,
+    "steps": 28,
+    "size": "720x720"
+  }
+}

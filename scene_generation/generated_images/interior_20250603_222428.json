@@ -1,0 +1,12 @@
+{
+  "prompt": "Minimalist Japanese-inspired bathroom with clean lines and zen atmosphere",
+  "enhanced_prompt": "Professional interior design photograph: Minimalist Japanese-inspired bathroom with clean lines and zen atmosphere. High quality, architectural photography, well-lit, 8k resolution",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ",
+  "seed": null,
+  "timestamp": "20250603_222428",
+  "settings": {
+    "guidance_scale": 7.5,
+    "steps": 50,
+    "size": "720x720"
+  }
+}

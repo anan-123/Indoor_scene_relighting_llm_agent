@@ -1,0 +1,11 @@
+{
+  "prompt": "Create an AI-generated image of a cozy bohemian bedroom featuring warm earth tones such as terracotta, deep emerald green, and soft cream. The space is adorned with lush plants, adding a vibrant green contrast to the earthy tones. Key furniture pieces include a plush bed with a handwoven blanket, a wooden desk, and a vintage bookshelf filled with eclectic items. The room's lighting mix of natural sunlight streaming through large windows and soft, ambient artificial light creates a warm, invit...",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, ",
+  "seed": 6728376368721351,
+  "timestamp": "20250604_023123",
+  "settings": {
+    "guidance_scale": 3.5,
+    "steps": 28,
+    "size": "720x720"
+  }
+}

@@ -1,0 +1,3 @@
+hf_cache/
+scene_generation/*.log
+scene_generation/explore_diffusers.ipynb
