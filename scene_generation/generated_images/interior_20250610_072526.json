@@ -1,0 +1,12 @@
+{
+  "prompt": "Design a mid-century modern home office featuring walnut furniture and vintage accents. The color palette consists of deep walnut, crisp white, soft gray, warm oak, and a touch of vintage green. Key furniture pieces include a sleek walnut desk, vintage chair, and a mid-century bookshelf. Lighting is a mix of natural light from large windows and soft artificial LED task lights. The floor is covered in polished oak, complemented by textured gray walls. Decorative elements include a vintage gree...",
+  "enhanced_prompt": "Professional interior design photograph: Design a mid-century modern home office featuring walnut furniture and vintage accents. The color palette consists of deep walnut, crisp white, soft gray, warm oak, and a touch of vintage green. Key furniture pieces include a sleek walnut desk, vintage chair, and a mid-century bookshelf. Lighting is a mix of natural light from large windows and soft artificial LED task lights. The floor is covered in polished oak, complemented by textured gray walls. Decorative elements include a vintage gree.... High quality.",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, cartoon, painting, sketch, ",
+  "seed": 2988750924463194,
+  "timestamp": "20250610_072526",
+  "settings": {
+    "guidance_scale": 3.5,
+    "steps": 28,
+    "size": "720x720"
+  }
+}

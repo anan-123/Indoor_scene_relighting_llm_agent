@@ -1,0 +1,19 @@
+{
+  "design_name": "bedroom",
+  "original_path": "/abhilash-vault/cse252d/scene_generation/generated_images/interior_20250610_071140.png",
+  "final_path": "/abhilash-vault/cse252d/scene_generation/final_designs/bedroom_20250610_071157.png",
+  "saved_at": "2025-06-10T07:11:57.823591",
+  "tags": [],
+  "original_metadata": {
+    "prompt": "Design a coastal cottage bedroom with a soft blue and white color palette. Include nautical elements such as starfish and rope accents. Key furniture pieces include a wooden bed with a white headboard and a side table adorned with seashell decor. Use natural wood flooring and light-colored walls to create a serene atmosphere. Incorporate coastal art and fabric accents with beach-inspired prints. Natural light filters through large windows, supplemented by warm, ambient lighting from lanterns....",
+    "enhanced_prompt": "Professional interior design photograph: Design a coastal cottage bedroom with a soft blue and white color palette. Include nautical elements such as starfish and rope accents. Key furniture pieces include a wooden bed with a white headboard and a side table adorned with seashell decor. Use natural wood flooring and light-colored walls to create a serene atmosphere. Incorporate coastal art and fabric accents with beach-inspired prints. Natural light filters through large windows, supplemented by warm, ambient lighting from lanterns..... High quality.",
+    "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, cartoon, painting, sketch, ",
+    "seed": 558320660355015,
+    "timestamp": "20250610_071140",
+    "settings": {
+      "guidance_scale": 3.5,
+      "steps": 28,
+      "size": "720x720"
+    }
+  }
+}

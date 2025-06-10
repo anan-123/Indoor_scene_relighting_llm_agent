@@ -1,0 +1,19 @@
+{
+  "design_name": "homeoffice",
+  "original_path": "/abhilash-vault/cse252d/scene_generation/generated_images/interior_20250610_072640.png",
+  "final_path": "/abhilash-vault/cse252d/scene_generation/final_designs/homeoffice_20250610_072655.png",
+  "saved_at": "2025-06-10T07:26:56.045261",
+  "tags": [],
+  "original_metadata": {
+    "prompt": "Design a mid-century modern home office with a sleek walnut desk, vintage chair, and mid-century bookshelf. Include a ceiling fan for added comfort. Use a color palette of deep walnut, crisp white, soft gray, warm oak, and vintage green. Add decorative elements like a vintage green abstract painting and a woven basket. Ensure the space has ample natural light from large windows and soft artificial LED task lights. The floor should be polished oak, complemented by textured gray walls.",
+    "enhanced_prompt": "Professional interior design photograph: Design a mid-century modern home office with a sleek walnut desk, vintage chair, and mid-century bookshelf. Include a ceiling fan for added comfort. Use a color palette of deep walnut, crisp white, soft gray, warm oak, and vintage green. Add decorative elements like a vintage green abstract painting and a woven basket. Ensure the space has ample natural light from large windows and soft artificial LED task lights. The floor should be polished oak, complemented by textured gray walls.. High quality.",
+    "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, cartoon, painting, sketch, ",
+    "seed": 3526848736958323,
+    "timestamp": "20250610_072640",
+    "settings": {
+      "guidance_scale": 3.5,
+      "steps": 28,
+      "size": "720x720"
+    }
+  }
+}

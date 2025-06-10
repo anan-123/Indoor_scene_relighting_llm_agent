@@ -1,0 +1,12 @@
+{
+  "prompt": "Mid-century modern home office featuring walnut furniture and vintage accents. The space boasts a color palette of muted blues, warm earth tones, and metallic silver accents. Key pieces include a sleek wooden desk, vintage bookshelf, and mid-century chair upholstered in leather. Natural light floods the room through large windows, complemented by soft overhead lighting. The floor is made of polished hardwood, while the walls are adorned with textured wallpaper and framed art. Decorative eleme...",
+  "enhanced_prompt": "Professional interior design photograph: Mid-century modern home office featuring walnut furniture and vintage accents. The space boasts a color palette of muted blues, warm earth tones, and metallic silver accents. Key pieces include a sleek wooden desk, vintage bookshelf, and mid-century chair upholstered in leather. Natural light floods the room through large windows, complemented by soft overhead lighting. The floor is made of polished hardwood, while the walls are adorned with textured wallpaper and framed art. Decorative eleme.... High quality.",
+  "negative_prompt": "low quality, blurry, distorted, amateur, ugly, deformed, cartoon, painting, sketch, ",
+  "seed": 4178162648033159,
+  "timestamp": "20250610_071907",
+  "settings": {
+    "guidance_scale": 3.5,
+    "steps": 28,
+    "size": "720x720"
+  }
+}
