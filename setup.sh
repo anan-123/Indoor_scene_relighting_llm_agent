@@ -1,3 +1,8 @@
+# Initialize git submodules
+git submodule init
+git submodule update
+
+# Install dependencies
 pip install groundingdino-py
 pip install opencv-python>=4.5.0 scipy>=1.7.0 scikit-image>=0.19.0
 pip install torch transformers diffusers opencv-python pillow safetensors segment-anything

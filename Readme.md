@@ -19,18 +19,32 @@ image_relighting/
 ```
 
 ## Setup
-You can look at setup.sh
-1. Install dependencies:
+
+You can look at setup.sh, but here are the detailed steps:
+
+1. Clone the repository with submodules:
+```bash
+git clone --recursive https://github.com/yourusername/Indoor_scene_relighting_llm_agent.git
+cd Indoor_scene_relighting_llm_agent
+```
+
+If you've already cloned without submodules, initialize them:
+```bash
+git submodule init
+git submodule update
+```
+
+2. Install dependencies:
 ```bash
 pip install torch torchvision transformers openai crewai langchain pydantic opencv-python segment-anything
 ```
 
-2. Download required model checkpoints:
+3. Download required model checkpoints:
    - GroundingDINO: `groundingdino_swint_ogc.pth`
    - SAM: `sam_vit_h_4b8939.pth`
    Place these in the root directory.
 
-3. Set up OpenAI API key:
+4. Set up OpenAI API key:
 ```bash
 export OPENAI_API_KEY='your-api-key'
 ```
@@ -84,21 +98,3 @@ python image_relighting/scriblit/inference.py -n scribblelight_controlnet -data 
    - CLIP similarity scores
    - Lighting-specific metrics
    - Visual quality assessment
-4. GPU is recommended but not required (will fall back to CPU)
-
-## Troubleshooting
-
-1. If models fail to load:
-   - Verify model checkpoint paths
-   - Check GPU memory availability
-   - Ensure all dependencies are installed
-
-2. If relighting fails:
-   - Check input image format (should be RGB)
-   - Verify all required maps (normal, albedo, scribble) exist
-   - Ensure sufficient disk space for outputs
-
-3. If LLM feedback fails:
-   - Verify OpenAI API key
-   - Check internet connection
-   - Ensure proper JSON formatting in responses
